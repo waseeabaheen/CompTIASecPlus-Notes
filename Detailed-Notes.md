@@ -12,7 +12,7 @@ Welcome to my comprehensive study notes for the **CompTIA Security+ (SY0-701)** 
 - [Domain 4 — Security Operations](#domain-4--security-operations)
 - [Domain 5 — Security Program Management and Oversight](#domain-5--security-program-management-and-oversight)
 - [Cheat Sheets & Quick Reference](#cheat-sheets--quick-reference)
-- [Mini Labs](#mini-labs)
+- [Mini Labs & Practice Scenarios](#mini-labs--practice-scenarios)
 
 ---
 
